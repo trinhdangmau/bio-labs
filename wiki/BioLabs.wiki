@@ -1,0 +1,1 @@
+Là phần mềm quản lý và phân tích cơ sở dữ liệu đa dạng sinh học.

@@ -1,3 +1,4 @@
+#labels Featured,Phase-Design,Phase-QA,Phase-Support
 *How to download Biolabs*
 
 
@@ -10,7 +11,5 @@ Note: tạo thư mục và sắp xếp các thư mục con theo Image, Lib, r-pr
 Hoặc các bạn có thể download toàn bộ project theo link sau:
 
 https://drive.google.com/open?id=0BzhkI27u3MTXVVBMVzFTc0oydGM&authuser=0
-
-
 
 

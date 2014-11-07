@@ -1,0 +1,16 @@
+*How to download Biolabs*
+
+
+Dowload source follow link:
+https://code.google.com/p/bio-labs/source/browse/branches
+
+Note: tạo thư mục và sắp xếp các thư mục con theo Image, Lib, r-project để lưu trữ các file tương ứng.
+
+
+Hoặc các bạn có thể download toàn bộ project theo link sau:
+
+https://drive.google.com/open?id=0BzhkI27u3MTXVVBMVzFTc0oydGM&authuser=0
+
+
+
+

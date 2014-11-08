@@ -1,0 +1,3 @@
+#How to cite this software#
+
+TrinhDang, 2014. BioLabs - Biodiversity database manager. Http://bio-labs.googlecode.com.

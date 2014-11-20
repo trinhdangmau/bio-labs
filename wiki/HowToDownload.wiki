@@ -5,11 +5,9 @@
 Dowload source follow link:
 https://code.google.com/p/bio-labs/source/browse/branches
 
-Note: tạo thư mục và sắp xếp các thư mục con theo Image, Lib, r-project để lưu trữ các file tương ứng.
+Note: please create the main project folder include three sub-folder: Image, Lib, r-project to store file as organized on website.
 
 
-Hoặc các bạn có thể download toàn bộ project theo link sau:
+Or you can download hold project follow link:
 
 https://drive.google.com/open?id=0BzhkI27u3MTXVVBMVzFTc0oydGM&authuser=0
-
-

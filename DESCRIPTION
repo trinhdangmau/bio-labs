@@ -1,0 +1,12 @@
+Package: biolabs
+Type: Package
+Title: BioLabs - Biodiversity Database Management and Analysis
+Version: 1.0
+Date: 2015-06-29
+Author: as.person("Mau", "Trinh Dang", email = "trinhdangmau@gmail.com", role = "aut")
+Maintainer: dmautrinh <dmautrinh@pideas.org>
+Depends: XML, RSQLite, R(>= 3.2.0)
+Imports: XML, RSQLite
+Description: Biodiversity software for R user, used to management and analysis biodiversity data based on specimens and individuals information. Manage taxonomy data, species distribution, Environmental factor, species images, laboratory collection. Additional, BioLabs provide an Analysis data tool which base on R software: Biodiversity indies, species richness models and ecological models, multiple regression analysis...
+License: GPL (>= 2)
+LazyData: TRUE

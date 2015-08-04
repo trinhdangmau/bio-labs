@@ -48,6 +48,6 @@ M. Trinh Dang
 \examples{
 ## Download databse of phylum Rotifera
 getwd()
-download.base("Rotifera", overwrite = FALSE)
+download.base("Rotifera", overwrite = FALSE)}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

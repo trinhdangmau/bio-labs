@@ -1,5 +1,6 @@
 \name{biolabs.first}
 \alias{biolabs.first}
+\alias{biolabs}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{Create an database for Biolabs
 }
@@ -40,7 +41,7 @@ M. Trinh Dang
 biolabs.first("biolab01.sqlite")
 dbListTables(conn())
 dnListFields(conn(), "species")
-
+}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{database}
